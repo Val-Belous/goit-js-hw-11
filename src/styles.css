@@ -1,0 +1,19 @@
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 25px;
+  justify-content: center;
+  align-items: baseline;
+}
+
+.photo-card {
+  width: 450px;
+}
+
+img {
+  width: inherit;
+}
+
+a {
+  width: inherit;
+}
